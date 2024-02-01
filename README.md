@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @pattpeng
-- 👀 I’m interested in ... 
-- 🌱 I’m currently testing ... 
-- Aye
-- 💞️ I’m looking to testing on ...
-- 📫 How to reach me ...
--  Test
--  testing
+Hello! I'm tidying up my git repos at the moment.
+
+Please find my website -> www.pattpeng.com
+
+Have a nice day!
 
 <!---
 pattpeng/pattpeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
